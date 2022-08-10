@@ -39,6 +39,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Frontend Developer** \
 [**Arezzo&Co**](https://ri.arezzoco.com.br/en/) • Full-time \
+abril 2022 - atual \
 Linguagens & Tecnologias: `JavaScript`, `TypeScript`, `JSP`, `ReactJS`, `NextJS`, etc\
 <br/>
 
@@ -46,6 +47,7 @@ Linguagens & Tecnologias: `JavaScript`, `TypeScript`, `JSP`, `ReactJS`, `NextJS`
 
 **Tech Helper** \
 [**Growdev**](https://www.growdev.com.br/) • Contract \
+maio 2022 - atual \
 Linguagens & Tecnologias: `JavaScript`, `TypeScript`, `NodeJS`, `ReactJS`, etc\
 <br/>
 <br/>

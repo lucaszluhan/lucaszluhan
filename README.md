@@ -54,3 +54,4 @@ Linguagens & Tecnologias: `JavaScript`, `TypeScript`, `NodeJS`, `ReactJS`, etc\
 
 ## Informações sobre meu GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucaszluhan&show_icons=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaszluhan&hide=html&layout=compact=true&theme=default)

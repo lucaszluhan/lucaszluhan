@@ -18,16 +18,16 @@
 </p>
 
 <p align="left">
-  <a href="mailto:lszluhan93@gmail.com" alt="Gmail">
+  <a href="mailto:lszluhan93@gmail.com" alt="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:lszluhan93@gmail.com" /></a>
 
-  <a href="https://www.linkedin.com/in/lszluhan/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/lszluhan/" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lszluhan/" /></a>
 
-  <a href="https://wa.me/5551998716255" alt="WhatsApp">
+  <a href="https://wa.me/5551998716255" alt="WhatsApp" target="_blank">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5551998716255"/></a>
 
-  <a href="https://www.instagram.com/lszluhan" alt="Instagram">
+  <a href="https://www.instagram.com/lszluhan" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flatsquare&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/lszluhan"/></a>
 </p>  
 <br/>

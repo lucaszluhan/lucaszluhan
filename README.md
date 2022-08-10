@@ -48,3 +48,6 @@ Linguagens & Tecnologias: `JavaScript`, `TypeScript`, `JSP`, `ReactJS`, `NextJS`
 [**Growdev**](https://www.growdev.com.br/) • Contract \
 Linguagens & Tecnologias: `JavaScript`, `TypeScript`, `NodeJS`, `ReactJS`, etc\
 <br/>
+
+## Informações sobre meu GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucaszluhan&show_icons=true)

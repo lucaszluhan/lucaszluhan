@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Javascript & Typescript</strong>
+  🦄 Linguagens: <strong>Javascript, Typescript, NodeJS</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>ReactJS, NextJS, Jenkins, NodeJS, SAP eCommerce (Hybris), Google Tag Manager, Google Optimize, Google Analytics, Docker, Azure, Jenkins, Slack, Figma, etc</strong>
+  💼 Ferramentas: <strong>ReactJS, NextJS, Jenkins, SAP eCommerce (Hybris), Google Tag Manager, Google Optimize, Google Analytics, Docker, Azure, Jenkins, Slack, Figma, etc</strong>
 </p>
 
 <p align="left">

@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💌 Nao deixe de entrar em contato nos canais abaixo: ⤵️
+  💌 Entre em contato pelos canais abaixo: ⤵️
 </p>
 
 <p align="left">

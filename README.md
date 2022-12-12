@@ -33,7 +33,6 @@
 <br/>
 
 ### Experiência de trabalho
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://cdn.discordapp.com/attachments/880987131160444968/1006710980857827328/download.png"/>](https://ri.arezzoco.com.br/en/)
 

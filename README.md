@@ -2,7 +2,7 @@
 
 <p align="left"> 
   --> Eu sou <b>Lucas Zluhan</b>.<br>
-  Desenvolvedor web React/Node atuando como Frontend na Arezzo&Co e prestando monitoria no curso de desenvolvimento web fullstack na Growdev.
+  Desenvolvedor React/Node atuando como Frontend na Arezzo&Co e prestando monitoria no curso de desenvolvimento web fullstack na Growdev.
 </p>
 
 <p align="left">

@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>ReactJS, NextJS, React Native, NodeJS, Styled Components, Jenkins, SAP eCommerce (Hybris), Google Tag Manager, Google Optimize, Google Analytics, Docker, Azure, Slack, Figma, etc</strong>
+  💼 Ferramentas: <strong>ReactJS, NextJS, React Native, NodeJS, Styled Components, Jenkins, SAP eCommerce (Hybris), Google Tag Manager, Google Optimize, Google Analytics, Docker, Azure, Slack, Figma.</strong>
 </p>
 
 <p align="left">
@@ -39,7 +39,7 @@
 **Frontend Developer** \
 [**Arezzo&Co**](https://ri.arezzoco.com.br/en/) • Full-time \
 abril 2022 - atual \
-Linguagens & Tecnologias: `JavaScript`, `TypeScript`, `JSP`, `ReactJS`, `NextJS`, etc\
+Linguagens & Tecnologias: `ReactJS`, `NextJS`, `React Native`, `JavaScript`, `TypeScript`, `JSP`.
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://cdn.discordapp.com/attachments/880987131160444968/1006711704983457872/download_2.png"/>](https://www.growdev.com.br/)
@@ -47,7 +47,7 @@ Linguagens & Tecnologias: `JavaScript`, `TypeScript`, `JSP`, `ReactJS`, `NextJS`
 **Tech Helper** \
 [**Growdev**](https://www.growdev.com.br/) • Contract \
 maio 2022 - atual \
-Linguagens & Tecnologias: `JavaScript`, `TypeScript`, `NodeJS`, `ReactJS`, etc\
+Linguagens & Tecnologias: `ReactJS`, `NodeJS`, `JavaScript`, `TypeScript`, `SQL`.
 <br/>
 <br/>
 
